@@ -12,3 +12,5 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:END -->
 
 [![linlh's github stats](https://github-readme-stats.vercel.app/api?username=linlih)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linlih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
