@@ -7,6 +7,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: linlh@stu.pku.edu.cn
 - ⚡ Fun fact: I :heart: 
 
-# Blog posts
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
