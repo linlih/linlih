@@ -23,6 +23,9 @@ This is the place where I opensource stuff and break things :rofl:
 [![linlh's github stats](https://github-readme-stats.vercel.app/api?username=linlih)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linlih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=linlih&show_icons=true&include_all_commits=true" alt="linlh's github stats" />
+</a>
+<a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linlih&layout=compact" />
+</a>
