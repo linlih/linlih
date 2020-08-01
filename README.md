@@ -1,5 +1,5 @@
 # linlh
-### Hi there 👋
+### Hi there! My name is linlh(林立宏) 👋
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
@@ -10,3 +10,5 @@ This is the place where I opensource stuff and break things :rofl:
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[![linlh's github stats](https://github-readme-stats.vercel.app/api?username=linlih)](https://github.com/anuraghazra/github-readme-stats)
