@@ -19,9 +19,10 @@ This is the place where I opensource stuff and break things :rofl:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>    
 
-<a>
+<a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=linlih&show_icons=true&include_all_commits=true" alt="linlh's github stats" />
 </a>
-<a>
+
+<a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linlih&layout=compact" />
 </a>
