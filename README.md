@@ -9,6 +9,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [荆棘鸟](https://lightpixels.cn/2020/08/%e8%8d%86%e6%a3%98%e9%b8%9f/)
+- [丰田一页纸极简思考法](https://lightpixels.cn/2020/08/%e4%b8%b0%e7%94%b0%e4%b8%80%e9%a1%b5%e7%ba%b8%e6%9e%81%e7%ae%80%e6%80%9d%e8%80%83%e6%b3%95/)
+- [高效人士用超级笔记术](https://lightpixels.cn/2020/08/%e9%ab%98%e6%95%88%e4%ba%ba%e5%a3%ab%e7%94%a8%e8%b6%85%e7%ba%a7%e7%ac%94%e8%ae%b0%e6%9c%af/)
+- [超速学习](https://lightpixels.cn/2020/08/%e8%b6%85%e9%80%9f%e5%ad%a6%e4%b9%a0/)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
