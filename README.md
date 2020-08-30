@@ -3,9 +3,8 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning AI, DL and CV
+- 🌱 I’m currently learning ML, DL and CV
 - 📫 How to reach me: linlh@stu.pku.edu.cn
-- ⚡ Fun fact: I :heart: 
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
