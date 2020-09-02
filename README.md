@@ -1,5 +1,5 @@
 # linlh
-### Hi there! I'm [linlh](lightpixels.cn)(林立宏) 👋
+### Hi there! I'm [linlh](https://lightpixels.cn)(林立宏) 👋
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
