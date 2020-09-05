@@ -6,6 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning CS
 - 📫 How to reach me: linlh@stu.pku.edu.cn
 - AI研习社[月度译者](https://www.yanxishe.com/medalWall/5007876)，翻译文章有：[图深度学习：成果、挑战和未来](https://www.yanxishe.com/TextTranslation/2614), [用 PyTorch Lightning 实现口罩检测器](https://www.yanxishe.com/TextTranslation/2580),  [图像分割 2020 最新进展](https://www.yanxishe.com/TextTranslation/2559)等
+- CS Note [汇总](linlh.gitbook.io/cs-notes/)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
