@@ -2,9 +2,6 @@
 ### Hi there! I'm linlh 👋
 This is the place where I opensource stuff and break things.
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning CS
-- 📫 How to reach me: linlh@stu.pku.edu.cn
 - 📘 CS Note [Link](https://linlh.gitbook.io/cs-notes/)
 
 <a href="">
